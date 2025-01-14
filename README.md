@@ -1,7 +1,7 @@
 ## Hi, I'm Abbie! 👋 🎨
 
-☀️ Web Developer and Designer Taking Life Day by Day 
-💻 Graduated from Yoobee Colleges with a Level 6 Diploma in Web and UX Design
+☀️ Web Developer and Designer Taking Life Day by Day </br>
+💻 Graduated from Yoobee Colleges with a Level 6 Diploma in Web and UX Design </br>
 👾 
 
 
