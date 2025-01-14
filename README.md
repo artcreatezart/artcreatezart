@@ -1,4 +1,4 @@
-# Hi, I'm Abbie!:
+# Hi, I'm Abbie!
 ☀️ Web Developer and Designer Taking Life Day by Day </br>
 💻 Graduated from Yoobee Colleges with a Level 6 Diploma in Web and UX Design </br>
 👾 I love to create, design and bring ideas to life </br>
