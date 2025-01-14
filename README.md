@@ -4,7 +4,9 @@
 💻 Graduated from Yoobee Colleges with a Level 6 Diploma in Web and UX Design </br>
 👾 
 
+![Abbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=artcreatezart&show_icons=true&theme=dracula)
 
+###Get In Touch
 <!--
 **artcreatezart/artcreatezart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
