@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Abbie! 👋 🎨
+
+☀️ Web Developer and Designer Taking Life Day by Day 
+💻 Graduated from Yoobee Colleges with a Level 6 Diploma in Web and UX Design
+👾 
+
 
 <!--
 **artcreatezart/artcreatezart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
