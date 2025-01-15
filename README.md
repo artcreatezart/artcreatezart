@@ -11,7 +11,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artcreatezart&layout=compact&theme=dracula)
 
-## Key Projects:
 
 
 
