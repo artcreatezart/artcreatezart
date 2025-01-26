@@ -3,7 +3,7 @@
 💻 Graduated from Yoobee Colleges with a Level 5 Diploma in Digital Design Web and Graphic Design </br>
 💻 I have also graduated from Yoobee Colleges with a Level 6 Diploma in Web and UX Design </br>
 👾 I love to create, design and bring ideas to life </br>
-💞 When I'm not designing or coding you can find me playing Pokemon Arceus or Painting </br>
+💞 When I'm not designing or coding you can find me playing video games or Painting </br>
 🫀 Fun Fact: My Initals spell ART... I was born to create 
 
 ## 💻 Tech Stack:
