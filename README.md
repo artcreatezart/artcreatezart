@@ -1,6 +1,6 @@
 # Hi, I'm Abbie!
 ☀️ Web Developer and Designer Taking Life Day by Day </br>
-💻 Graduated from Yoobee Colleges with a Level 6 Diploma in Web and UX Design </br>
+💻 Graduated from Yoobee Colleges with a Level 5 Diploma in Digital Design Web and Graphic Design and Level 6 Diploma in Web and UX Design </br>
 👾 I love to create, design and bring ideas to life </br>
 💞 When I'm not designing or coding you can find me playing Pokemon Arceus or Painting </br>
 🫀 Fun Fact: My Initals spell ART... I was born to create 
